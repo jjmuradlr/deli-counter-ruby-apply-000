@@ -4,6 +4,7 @@ katz_deli = []
 $number = 0
 
 def take_a_number
+  $number = 0
   $number += 1
   puts "Order number #{$number}"
 end
