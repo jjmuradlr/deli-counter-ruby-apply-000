@@ -2,8 +2,8 @@
 katz_deli = []
 
 def take_a_number
+  number = 1
   puts "Order number #{number}"
-  number = 1 
 end
 
 puts take_a_number
