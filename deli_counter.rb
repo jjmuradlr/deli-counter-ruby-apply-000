@@ -5,6 +5,10 @@ def take_a_number
   puts "Order number 1."
 end
 
+puts take_a_number
+puts take_a_number
+puts take_a_number
+
 def line (katz_deli)
   text = ""
   if katz_deli.empty?
