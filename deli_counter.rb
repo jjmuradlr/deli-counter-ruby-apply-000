@@ -1,10 +1,11 @@
 # Write your code here.
 katz_deli = []
 
+$number = 0
+
 def take_a_number
-  number = 0
-  number++
-  puts "Order number #{number}"
+  $number++
+  puts "Order number #{$number}"
 end
 
 puts take_a_number
