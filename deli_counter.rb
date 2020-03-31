@@ -1,9 +1,8 @@
 # Write your code here.
 katz_deli = []
 
-def take_a_number (katz_deli, name)
-  katz_deli << name
-  puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
+def take_a_number
+  puts "Order number 1."
 end
 
 def line (katz_deli)
