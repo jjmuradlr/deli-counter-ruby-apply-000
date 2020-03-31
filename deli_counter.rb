@@ -3,7 +3,7 @@ katz_deli = []
 
 def take_a_number
   number = 1
-  number ++
+  number++
   puts "Order number #{number}"
 end
 
